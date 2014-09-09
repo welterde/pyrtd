@@ -1,0 +1,5 @@
+*~
+*.pyc
+build
+pyrtd.py
+pyrtd_wrap.c
